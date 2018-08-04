@@ -6,7 +6,7 @@ hw4_release/
 hw5_release/
 hw6_release/
 hw7_release/
-#hw8_release/
+hw8_release/
 __pycache__/
 # Don't track following source code
 *.pyc
