@@ -1,0 +1,13 @@
+# Don't track following folder
+hw1_release/
+hw2_release/
+hw3_release/
+hw4_release/
+hw5_release/
+hw6_release/
+hw7_release/
+__pycache__/
+# Don't track following source code
+*.pyc
+
+
